@@ -93,6 +93,31 @@
 		padding-top:15px;
 		
 	}
+	.gobtn2{
+		display:inline-block;
+		width:70px;
+		height:40px;
+		background:#5c88af;
+		color:#FFF;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		-webkit-box-shadow: 3px -3px 0px rgba(50, 50, 50, 0.25);
+		-moz-box-shadow:    3px -3px 0px rgba(50, 50, 50, 0.25);
+		box-shadow:         3px -3px 0px rgba(50, 50, 50, 0.25);
+		-moz-border-radius-topleft: 3px;
+		-webkit-border-top-left-radius: 3px;
+		 border-top-left-radius: 3px;
+		-moz-border-radius-topright: 5px;
+		-webkit-border-top-right-radius: 5px;
+		border-top-right-radius: 5px;
+		padding-top:15px;
+		
+	}
+	.gobtn2:hover{
+		opacity:0.9;
+		text-decoration:none;
+	}
 	.gobtn i{
 		color:#292C37;
 	}
