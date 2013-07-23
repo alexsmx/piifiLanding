@@ -523,6 +523,10 @@
 	.btn.btn-learnmore {
 		background-color: #E47E67; 
 	}
+	.btn.btn-buynow {
+		background-color: #5C88AF; 
+	}
+
     .btn.btn-primary:hover, 
 	.btn.btn-primary:focus {
       background-color: #2fe2bf; 

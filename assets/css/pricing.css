@@ -80,7 +80,7 @@ border:6px solid #34495E;
 
 text-align:center;
 font-weight:400;
-border:6px solid #3498DB;
+border:6px solid #5C88AF;
 }
 
 /********************************** BOX CONTENT ************************/
@@ -150,7 +150,7 @@ border:6px solid #3498DB;
 	}
 	
 	.pricing-table.blue .heading{
-	background: #3498DB;
+	background: #5C88AF;
 	}
 
 
@@ -179,7 +179,7 @@ border:6px solid #3498DB;
 }
 
 .pricing-table.blue .pricing-table-header .price-value{
-	background: #2980B9;
+	background: #375263;
 
 }
 
